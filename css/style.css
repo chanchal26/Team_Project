@@ -1,0 +1,15 @@
+footer {
+    background-color: #0E071B;
+    color: #fff;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.footer-heading {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.footer-links li {
+    list-style: none;
+}
